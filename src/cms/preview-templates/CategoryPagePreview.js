@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { CategoryTemplate } from "../../templates/category-page";
 
-const IndexPagePreview = ({ entry}) => {
+const CategoryPagePreview = ({ entry}) => {
   const data = entry.getIn(["data"]).toJS();
 
   if (data) {
@@ -27,10 +27,10 @@ const IndexPagePreview = ({ entry}) => {
   }
 };
 
-IndexPagePreview.propTypes = {
+CategoryPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
 };
 
-export default IndexPagePreview;
+export default CategoryPagePreview;

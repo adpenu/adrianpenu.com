@@ -117,4 +117,5 @@ images:
     type: mounted print
     dimensions: 16 x 12 cm
     price: £70
+    shipping: Free worldwide shipping and returns
 ---

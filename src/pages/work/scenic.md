@@ -14,6 +14,7 @@ images:
     type: Oil on canvas, 2020
     dimensions: 80 x 60 cm
     price: £600
+    shipping: Free worldwide shipping and returns
   - image: /img/scenic-empire.jpg
     title: Empire
     position: 4
@@ -23,6 +24,7 @@ images:
     type:  Oil on canvas, 2020
     dimensions: 150 x 120 cm
     price: £1200
+    shipping: Free worldwide shipping and returns
   - image: /img/scenic-leif.jpg
     title: Leif
     position: 6
@@ -32,6 +34,7 @@ images:
     type: Oil on canvas, 2020
     dimensions: 41 x 30 cm
     price: £380
+    shipping: Free worldwide shipping and returns
   - image: /img/scenic-rainbow-island.jpg
     title: Rainbow Island
     position: 3
@@ -41,6 +44,7 @@ images:
     type: Oil on canvas, 2020
     dimensions: 80 x 60 cm
     price: £600
+    shipping: Free worldwide shipping and returns
   - image: /img/scenic-random-precision.jpg
     title: Random Precision
     position: 7
@@ -50,6 +54,7 @@ images:
     type: Oil on canvas, 2020
     dimensions: 120 x 90 cm
     price: £945
+    shipping: Free worldwide shipping and returns
   - image: /img/scenic-skyscape.jpg
     title: Skyscape
     position: 8
@@ -59,6 +64,7 @@ images:
     type: Acrylic on canvas, 2016
     dimensions: 40 x 40 cm
     price: £600
+    shipping: Free worldwide shipping and returns
   - image: /img/scenic-supernova-I.jpg
     title: Supernova I
     position: 2
@@ -68,6 +74,7 @@ images:
     type: Oil on canvas, 2019
     dimensions: 50 x 40 cm
     price: £600
+    shipping: Free worldwide shipping and returns
   - image: /img/scenic-supernova-II.jpg
     title: Supernova II
     position: 1
@@ -77,6 +84,7 @@ images:
     type: Oil on canvas, 2019
     dimensions: 100 x 100 cm
     price: £945
+    shipping: Free worldwide shipping and returns
   - image: /img/scenic-supernova-III.jpg
     title: Supernova III
     position: 9
@@ -86,6 +94,7 @@ images:
     type: Oil on canvas, 2019
     dimensions: 100 x 100 cm
     price: £945
+    shipping: Free worldwide shipping and returns
   - image: /img/scenic-vertical-supremo.jpg
     title: Vertical Supremo
     position: 10
@@ -95,4 +104,5 @@ images:
     type: Oil on canvas, 2020
     dimensions: 80 x 60 cm
     price: £600
+    shipping: Free worldwide shipping and returns
 ---

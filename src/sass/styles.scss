@@ -12,6 +12,7 @@
 @include vf-u-align;
 @include vf-u-margin-collapse;
 @include vf-u-padding-collapse;
+@include vf-u-vertically-center;
 
 // color variables
 $color-primary: #1555a8;
@@ -24,7 +25,7 @@ $color-light: #f7f7f7;
 // @import url("https://fonts.googleapis.com/css?family=Poppins:300,500");
 
 html {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 @import "footer";
@@ -50,6 +51,9 @@ html {
 
 .main {
   background-color: $color-background;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto 1fr auto;
   min-height: 100vh;
 }
 
@@ -131,5 +135,12 @@ textarea,
 
   .u-fixed-width {
     background-color: $color-background;
+  }
+}
+
+.u-align-center--large {
+  @media screen and (min-width: $breakpoint-medium) {
+    display: flex;
+    justify-content: center;
   }
 }

@@ -31,25 +31,26 @@ export const PaintingTemplate = ({ painting, helmet, siteMetadata }) => {
                 <li className='p-list__item p-heading--3 u-no-margin--bottom'>
                   {painting.price}
                 </li>
-                {painting.price && painting.price[0] === "£" ? (
-                  <li className='p-list__item'>
-                    Free worldwide shipping and returns
-                  </li>
-                ) : (
-                  ""
-                )}
+                <li className='p-list__item'>{painting.shipping}</li>
               </ul>
             </div>
             <div className='p-card__buy-now'>
-              <p>Interested in acquiring this artwork?</p>
+              {painting.price && painting.price[0] === "£" ? (
+                <p>Interested in acquiring this artwork?</p>
+              ) : (
+                ""
+              )}
               <div className='row'>
                 <div className='col-3'>
-                  <Link
-                    className='p-button--neutral u-no-margin--bottom'
-                    to='/contact'>
-                    {" "}
-                    Get in touch{" "}
-                  </Link>{" "}
+                  {painting.price && painting.price[0] === "£" ? (
+                    <Link
+                      className='p-button--neutral u-no-margin--bottom'
+                      to='/contact'>
+                      Get in touch
+                    </Link>
+                  ) : (
+                    ""
+                  )}
                 </div>
                 <div className='col-2'>
                   <SocialShare
@@ -152,6 +153,7 @@ export const pageQuery = graphql`
           slug
           type
           price
+          shipping
           image {
             childImageSharp {
               fluid(maxWidth: 650, quality: 90) {

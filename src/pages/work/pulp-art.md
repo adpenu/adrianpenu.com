@@ -14,6 +14,7 @@ images:
     type: Oil on canvas, 2020
     dimensions: 61 x 46 cm
     price: £600
+    shipping: Free worldwide shipping and returns
   - image: /img/pulp-art-le-misanthrope.jpg
     title: Le Misanthrope
     position: 2
@@ -23,6 +24,7 @@ images:
     type: Oil on canvas, 2019
     dimensions: 60 x 60 cm
     price: £600
+    shipping: Free worldwide shipping and returns
   - image: /img/pulp-art-occultus.jpg
     title: Occultus
     position: 5
@@ -32,6 +34,7 @@ images:
     type: Oil on canvas, 2019
     dimensions: 20 x 30 cm
     price: £380
+    shipping: Free worldwide shipping and returns
   - image: /img/pulp-art-spectator.jpg
     title: Spectator
     position: 6
@@ -41,6 +44,7 @@ images:
     type: Oil on canvas, 2020
     dimensions: 61 x 46 cm
     price: £600
+    shipping: Free worldwide shipping and returns
   - image: /img/pulp-art-spider.jpg
     title: Spider
     position: 1
@@ -50,6 +54,7 @@ images:
     type: Oil on canvas, 2019
     dimensions: 80 x 80 cm
     price: £720
+    shipping: Free worldwide shipping and returns
   - image: /img/pulp-art-stalin.jpg
     title: Stalin
     position: 7
@@ -59,6 +64,7 @@ images:
     type: Oil on canvas, 2020
     dimensions: 150 x 120 cm
     price: £1200
+    shipping: Free worldwide shipping and returns
   - image: /img/pulp-art-the-peacemaker.jpg
     title: The Peacemaker
     position: 8
@@ -68,6 +74,7 @@ images:
     type: Oil on canvas, 2019
     dimensions: 40 x 30 cm
     price: £380
+    shipping: Free worldwide shipping and returns
   - image: /img/pulp-art-trashtalker-II.jpg
     title: Trashtalker II
     position: 4
@@ -77,6 +84,7 @@ images:
     type: Oil on canvas, 2019
     dimensions: 40 x 40 cm
     price: £380
+    shipping: Free worldwide shipping and returns
   - image: /img/pulp-art-x.jpg
     title: X
     position: 9
@@ -86,4 +94,5 @@ images:
     type: Oil on canvas, 2019
     dimensions: 40 x 30 cm
     price: £380
+    shipping: Free worldwide shipping and returns
 ---

@@ -14,6 +14,7 @@ images:
     type: Oil on linen, 2017
     dimensions: 20 x 20 cm
     price: £380
+    shipping: Free worldwide shipping and returns
   - image: /img/still-life-alma.jpg
     title: Alma
     position: 3
@@ -23,6 +24,7 @@ images:
     type: Acrylic on canvas, 2016
     dimensions: 60 x 50 cm
     price: In private collection
+    shipping:
   - image: /img/still-life-animal-skull.jpg
     title: Animal Skull
     position: 6
@@ -32,6 +34,7 @@ images:
     type: Oil on linen, 2018
     dimensions: 60 x 60 cm
     price: £600
+    shipping: Free worldwide shipping and returns
   - image: /img/still-life-clapham-ceiling.jpg
     title: Clapham Ceiling
     position: 4
@@ -41,6 +44,7 @@ images:
     type: Oil on canvas, 2018
     dimensions: 60 x 60 cm
     price: £600
+    shipping: Free worldwide shipping and returns
   - image: /img/still-life-model.jpg
     title: Model
     position: 7
@@ -50,6 +54,7 @@ images:
     type: Oil on canvas, 2018
     dimensions: 20 x 20 cm
     price: £380
+    shipping: Free worldwide shipping and returns
   - image: /img/still-life-pacific.jpg
     title: Pacific
     position: 8
@@ -59,6 +64,7 @@ images:
     type: Oil on canvas, 2017
     dimensions: 60 x 50 cm
     price: In private collection
+    shipping:
   - image: /img/still-life-pliers.jpg
     title: Pliers
     position: 9
@@ -68,6 +74,7 @@ images:
     type: Oil on linen, 2017
     dimensions: 20 x 20 cm
     price: £380
+    shipping: Free worldwide shipping and returns
   - image: /img/still-life-scissor.jpg
     title: Scissor
     position: 10
@@ -77,6 +84,7 @@ images:
     type: Oil on linen, 2017
     dimensions: 20 x 20 cm
     price: £380
+    shipping: Free worldwide shipping and returns
   - image: /img/still-life-the-cube.jpg
     title: The Cube
     position: 11
@@ -86,6 +94,7 @@ images:
     type: Oil on linen, 2018
     dimensions: 100 x 80 cm
     price: In private collection
+    shipping:
   - image: /img/still-life-the-dark-side-of-the-room.jpeg
     title: The Dark Side of the Room
     position: 1
@@ -95,6 +104,7 @@ images:
     type: Oil on linen, 2018
     dimensions: 160 x 140 cm
     price: £1200
+    shipping: Free worldwide shipping and returns
   - image: /img/still-life-xyz.jpg
     title: XYZ
     position: 2
@@ -104,4 +114,5 @@ images:
     type: Oil on canvas, 2017
     dimensions: 40 x 40 cm
     price: £600
+    shipping: Free worldwide shipping and returns
 ---

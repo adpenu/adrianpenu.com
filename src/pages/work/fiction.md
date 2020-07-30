@@ -14,6 +14,7 @@ images:
     type: Acrylic on canvas, 2016
     dimensions: 80 x 60 cm
     price: £720
+    shipping: Free worldwide shipping and returns
   - image: /img/fiction-arrival-of-the-invader.jpg
     title: Arrival of the Invader
     position: 6
@@ -23,6 +24,7 @@ images:
     featured: true
     dimensions: 120 x 90 cm
     price: £945
+    shipping: Free worldwide shipping and returns
   - image: /img/fiction-death-of-galatea.jpg
     title: Death of Galatea
     position: 7
@@ -32,6 +34,7 @@ images:
     featured: true
     dimensions: 80 x 60 cm
     price: £600
+    shipping: Free worldwide shipping and returns
   - image: /img/fiction-distance.jpg
     title: Distance
     position: 2
@@ -41,6 +44,7 @@ images:
     featured: true
     dimensions: 40 x 40 cm
     price: £600
+    shipping: Free worldwide shipping and returns
   - image: /img/fiction-galatea-I.jpg
     title: Galatea I
     position: 8
@@ -50,6 +54,7 @@ images:
     featured: false
     dimensions: 80 x 60 cm
     price: £720
+    shipping: Free worldwide shipping and returns
   - image: /img/fiction-galatea-II.jpg
     title: Galatea II
     position: 9
@@ -59,6 +64,7 @@ images:
     featured: false
     dimensions: 80 x 60 cm
     price: £720
+    shipping: Free worldwide shipping and returns
   - image: /img/fiction-galatea-III.jpg
     title: Galatea III
     position: 10
@@ -68,6 +74,7 @@ images:
     featured: false
     dimensions: 80 x 60 cm
     price: £720
+    shipping: Free worldwide shipping and returns
   - image: /img/fiction-galatea-IV.jpg
     title: Galatea IV
     position: 3
@@ -77,6 +84,7 @@ images:
     featured: false
     dimensions: 120 x 100 cm
     price: £945
+    shipping: Free worldwide shipping and returns
   - image: /img/fiction-omiscient.jpg
     title: Omiscient
     position: 4
@@ -87,6 +95,7 @@ images:
     description:
     dimensions: 76 x 61 cm
     price: £720
+    shipping: Free worldwide shipping and returns
   - image: /img/fiction-paradoxx.jpg
     title: Paradoxx
     position: 1
@@ -96,4 +105,5 @@ images:
     featured: false
     dimensions: 120 x 100 cm
     price: £945
+    shipping: Free worldwide shipping and returns
 ---
