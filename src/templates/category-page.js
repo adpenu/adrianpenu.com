@@ -7,64 +7,79 @@ import { sortBy } from "lodash";
 import Layout from "../components/Layout";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
-export const CategoryTemplate = ({ images, slug, helmet }) => {
-  const allImages = images.map((el, i) => (
-    <Link to={`/work/${slug}/${el.slug}`} key={i}>
-      <div className='p-card--highlighted' title={el.title}>
-        <div className='p-card__image'>
-          <PreviewCompatibleImage imageInfo={el.image} alt={el.alt} />
-          <div className='p-card__info'>
-            <div className='u-right'>{el.dimensions}</div>
-            <div className='u-left'>{el.title}</div>
-          </div>
-        </div>
-      </div>
-    </Link>
-  ));
+export const CategoryTemplate = ({
+         images,
+         slug,
+         helmet,
+         description,
+         title,
+       }) => {
+         const allImages = images.map((el, i) => (
+           <Link to={`/work/${slug}/${el.slug}`} key={i}>
+             <div className='p-card--highlighted' title={el.title}>
+               <div className='p-card__image'>
+                 <PreviewCompatibleImage imageInfo={el.image} alt={el.alt} />
+                 <div className='p-card__info'>
+                   <div className='u-right'>{el.dimensions}</div>
+                   <div className='u-left'>{el.title}</div>
+                 </div>
+               </div>
+             </div>
+           </Link>
+         ));
 
-  let itemsInColOne = 0,
-    itemsInColTwo = 0;
+         let itemsInColOne = 0,
+           itemsInColTwo = 0;
 
-  if (images.length % 3 === 2) {
-    itemsInColOne = (images.length + 1) / 3;
-    itemsInColTwo = (images.length + 1) / 3;
-  } else if (images.length % 3 === 1) {
-    itemsInColOne = (images.length + 2) / 3;
-    itemsInColTwo = (images.length - 1) / 3;
-  } else if (images.length % 3 === 0) {
-    itemsInColOne = images.length / 3;
-    itemsInColTwo = images.length / 3;
-  }
+         if (images.length % 3 === 2) {
+           itemsInColOne = (images.length + 1) / 3;
+           itemsInColTwo = (images.length + 1) / 3;
+         } else if (images.length % 3 === 1) {
+           itemsInColOne = (images.length + 2) / 3;
+           itemsInColTwo = (images.length - 1) / 3;
+         } else if (images.length % 3 === 0) {
+           itemsInColOne = images.length / 3;
+           itemsInColTwo = images.length / 3;
+         }
 
-  let columnOne = [],
-    columnTwo = [],
-    columnThree = [];
+         let columnOne = [],
+           columnTwo = [],
+           columnThree = [];
 
-  allImages.forEach((el, i) => {
-    if (i < itemsInColOne) {
-      columnOne.push(el);
-    } else if (i >= itemsInColOne && i < itemsInColTwo + itemsInColOne) {
-      columnTwo.push(el);
-    } else if (i >= itemsInColTwo + itemsInColOne) {
-      columnThree.push(el);
-    }
-  });
+         allImages.forEach((el, i) => {
+           if (i < itemsInColOne) {
+             columnOne.push(el);
+           } else if (i >= itemsInColOne && i < itemsInColTwo + itemsInColOne) {
+             columnTwo.push(el);
+           } else if (i >= itemsInColTwo + itemsInColOne) {
+             columnThree.push(el);
+           }
+         });
 
-  return (
-    <section className='p-strip'>
-      {helmet || ""}
-      <div className='row'>
-        <div className='col-4'>{columnOne}</div>
-        <div className='col-4'>{columnTwo}</div>
-        <div className='col-4'>{columnThree}</div>
-      </div>
-    </section>
-  );
-};
+         return (
+           <>
+             {helmet || ""}
+             <section className='p-strip u-no-padding--bottom'>
+               <div className='u-fixed-width'>
+                 <h1>{title}</h1>
+                 <h2 className='p-heading--4'>{description}</h2>
+               </div>
+             </section>
+             <section className='p-strip'>
+               <div className='row'>
+                 <div className='col-4'>{columnOne}</div>
+                 <div className='col-4'>{columnTwo}</div>
+                 <div className='col-4'>{columnThree}</div>
+               </div>
+             </section>
+           </>
+         );
+       };
 
 CategoryTemplate.propTypes = {
   images: PropTypes.array,
   description: PropTypes.string,
+  slug: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
 };
@@ -89,6 +104,7 @@ const Category = ({ data }) => {
             <meta name='description' />
           </Helmet>
         }
+        description={frontmatter.description}
         title={frontmatter.title}
       />
     </Layout>
@@ -108,6 +124,7 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
+        description
         slug
         images {
           title
