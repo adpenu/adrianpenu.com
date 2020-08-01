@@ -2,108 +2,113 @@
 templateKey: category-page
 title: Fiction
 slug: fiction
-description: The artworks are based on mythology, sci-fi and surrealism. The main characters of this series are Paradoxx- an astronaut representing science and empiricism- and Galatea- the embodiment of ideal beauty, spirituality and harmony.
+description: The artworks are based on mythology, sci-fi and surrealism. The
+  main characters of this series are Paradoxx- an astronaut representing science
+  and empiricism- and Galatea- the embodiment of ideal beauty, spirituality and
+  harmony.
 position: 5
 images:
-  - image: /img/fiction-adoration.jpg
-    title: Adoration
-    position: 5
-    alt: adoration
-    slug: adoration
-    featured: true
-    type: Acrylic on canvas, 2016
-    dimensions: 80 x 60 cm
+  - position: 5
     price: £720
-    shipping: Free worldwide shipping and returns
-  - image: /img/fiction-arrival-of-the-invader.jpg
-    title: Arrival of the Invader
-    position: 6
+    alt: "adoration woman feminism green blue "
+    slug: adoration
+    dimensions: 80 x 60 cm
+    featured: false
+    shipping: |-
+      Free worldwide shipping and returns
+      Canvas will be shipped rolled up in a tube
+    title: Adoration
+    type: Acrylic on canvas, 2016
+    image: /img/fiction-adoration.jpg
+  - position: 6
+    price: £945
     alt: arrival of the invader
     slug: arrival-of-the-invader
-    type: Oil on linen, 2017
-    featured: true
     dimensions: 120 x 90 cm
-    price: £945
+    featured: true
     shipping: Free worldwide shipping and returns
-  - image: /img/fiction-death-of-galatea.jpg
-    title: Death of Galatea
-    position: 7
+    title: Arrival of the Invader
+    type: Oil on linen, 2017
+    image: /img/fiction-arrival-of-the-invader.jpg
+  - position: 7
+    price: £600
     alt: death of galatea
     slug: death-of-galatea
-    type: Oil on canvas, 2017
-    featured: true
     dimensions: 80 x 60 cm
-    price: £600
+    featured: true
     shipping: Free worldwide shipping and returns
-  - image: /img/fiction-distance.jpg
-    title: Distance
-    position: 2
+    title: Death of Galatea
+    type: Oil on canvas, 2017
+    image: /img/fiction-death-of-galatea.jpg
+  - position: 2
+    price: £600
     alt: distance
     slug: distance
-    type: Oil on linen, 2017
-    featured: true
     dimensions: 40 x 40 cm
-    price: £600
+    featured: true
     shipping: Free worldwide shipping and returns
-  - image: /img/fiction-galatea-I.jpg
-    title: Galatea I
-    position: 8
+    title: Distance
+    type: Oil on linen, 2017
+    image: /img/fiction-distance.jpg
+  - position: 8
+    price: £720
     alt: galatea I
     slug: galatea-I
-    type: Acrylic on canvas, 2017
-    featured: false
     dimensions: 80 x 60 cm
-    price: £720
+    featured: false
     shipping: Free worldwide shipping and returns
-  - image: /img/fiction-galatea-II.jpg
-    title: Galatea II
-    position: 9
+    title: Galatea I
+    type: Acrylic on canvas, 2017
+    image: /img/fiction-galatea-I.jpg
+  - position: 9
+    price: £720
     alt: galatea II
     slug: galatea-II
-    type: Acrylic on canvas, 2017
-    featured: false
     dimensions: 80 x 60 cm
-    price: £720
+    featured: false
     shipping: Free worldwide shipping and returns
-  - image: /img/fiction-galatea-III.jpg
-    title: Galatea III
-    position: 10
+    title: Galatea II
+    type: Acrylic on canvas, 2017
+    image: /img/fiction-galatea-II.jpg
+  - position: 10
+    price: £720
     alt: galatea III
     slug: galatea-III
-    type: Acrylic on canvas, 2017
-    featured: false
     dimensions: 80 x 60 cm
-    price: £720
+    featured: false
     shipping: Free worldwide shipping and returns
-  - image: /img/fiction-galatea-IV.jpg
-    title: Galatea IV
-    position: 3
+    title: Galatea III
+    type: Acrylic on canvas, 2017
+    image: /img/fiction-galatea-III.jpg
+  - position: 3
+    price: £945
     alt: galatea IV
     slug: galatea-IV
-    type: Acrylic on canvas, 2017
-    featured: false
     dimensions: 120 x 100 cm
-    price: £945
+    featured: false
     shipping: Free worldwide shipping and returns
-  - image: /img/fiction-omiscient.jpg
-    title: Omiscient
-    position: 4
+    title: Galatea IV
+    type: Acrylic on canvas, 2017
+    image: /img/fiction-galatea-IV.jpg
+  - position: 4
+    price: £720
     alt: omiscient
     slug: omiscient
-    type: Acrylic on canvas, 2018
-    featured: false
-    description:
     dimensions: 76 x 61 cm
-    price: £720
+    featured: false
     shipping: Free worldwide shipping and returns
-  - image: /img/fiction-paradoxx.jpg
-    title: Paradoxx
-    position: 1
+    title: Omiscient
+    type: Acrylic on canvas, 2018
+    image: /img/fiction-omiscient.jpg
+    description: null
+  - position: 1
+    price: £945
     alt: paradoxx
     slug: paradoxx
-    type: Acrylic on canvas, 2018
-    featured: false
     dimensions: 120 x 100 cm
-    price: £945
+    featured: false
     shipping: Free worldwide shipping and returns
+    title: Paradoxx
+    type: Acrylic on canvas, 2018
+    image: /img/fiction-paradoxx.jpg
 ---
