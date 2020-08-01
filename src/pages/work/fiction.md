@@ -107,11 +107,14 @@ images:
     description: null
   - position: 1
     price: £945
-    alt: paradoxx
+    alt: geometry cube astronaut kubrick
     slug: paradoxx
     dimensions: 120 x 100 cm
-    featured: false
-    shipping: Free worldwide shipping and returns
+    featured: true
+    shipping: |-
+      Free worldwide shipping and returns
+
+      Canvas will be shipped rolled up in a tube
     title: Paradoxx
     type: Acrylic on canvas, 2018
     image: /img/fiction-paradoxx.jpg
