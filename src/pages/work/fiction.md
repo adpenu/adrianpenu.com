@@ -28,7 +28,7 @@ images:
     dimensions: 120 x 90 cm
     featured: false
     shipping: |-
-      Free worldwide shipping and returns <br /> 
+      Free worldwide shipping and returns<br /> 
       Canvas will be shipped rolled up in a tube
     title: Arrival of the Invader
     type: Oil on linen, 2017
