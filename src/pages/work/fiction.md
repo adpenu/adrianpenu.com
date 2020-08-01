@@ -96,10 +96,10 @@ images:
     image: /img/fiction-galatea-IV.jpg
   - position: 4
     price: £720
-    alt: omiscient
+    alt: omiscient red sculpture egyptian
     slug: omiscient
     dimensions: 76 x 61 cm
-    featured: false
+    featured: true
     shipping: Free worldwide shipping and returns
     title: Omiscient
     type: Acrylic on canvas, 2018
