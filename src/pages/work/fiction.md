@@ -21,13 +21,16 @@ images:
     title: Adoration
     type: Acrylic on canvas, 2016
     image: /img/fiction-adoration.jpg
-  - position: 6
+  - position: 7
     price: £945
-    alt: arrival of the invader
+    alt: woman nude geometry purple
     slug: arrival-of-the-invader
     dimensions: 120 x 90 cm
-    featured: true
-    shipping: Free worldwide shipping and returns
+    featured: false
+    shipping: |-
+      Free worldwide shipping and returns
+
+      Canvas will be shipped rolled up in a tube
     title: Arrival of the Invader
     type: Oil on linen, 2017
     image: /img/fiction-arrival-of-the-invader.jpg
