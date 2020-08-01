@@ -34,19 +34,24 @@ images:
     title: Arrival of the Invader
     type: Oil on linen, 2017
     image: /img/fiction-arrival-of-the-invader.jpg
-  - position: 7
+  - position: 4
     price: £600
     alt: death of galatea
     slug: death-of-galatea
     dimensions: 80 x 60 cm
     featured: true
-    shipping: Free worldwide shipping and returns
+    shipping: >-
+      Free worldwide shipping and
+      returns                                                                                                          
+
+
+      Canvas will be shipped rolled up in a tube
     title: Death of Galatea
     type: Oil on canvas, 2017
     image: /img/fiction-death-of-galatea.jpg
   - position: 2
     price: £600
-    alt: distance
+    alt: distance cube fiction astronaut geometry
     slug: distance
     dimensions: 40 x 40 cm
     featured: true
@@ -94,7 +99,7 @@ images:
     title: Galatea IV
     type: Acrylic on canvas, 2017
     image: /img/fiction-galatea-IV.jpg
-  - position: 4
+  - position: 3
     price: £720
     alt: omiscient red sculpture egyptian
     slug: omiscient
