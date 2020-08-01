@@ -16,6 +16,7 @@ images:
     featured: false
     shipping: |-
       Free worldwide shipping and returns
+
       Canvas will be shipped rolled up in a tube
     title: Adoration
     type: Acrylic on canvas, 2016
