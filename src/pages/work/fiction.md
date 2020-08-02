@@ -10,14 +10,11 @@ position: 5
 images:
   - position: 5
     price: £720
-    alt: "adoration woman feminism green blue "
+    alt: adoration woman feminism green blue
     slug: adoration
     dimensions: 80 x 60 cm
     featured: false
-    shipping: |-
-      Free worldwide shipping and returns
-
-      Canvas will be shipped rolled up in a tube
+    shipping: Free worldwide shipping and returns</br>Canvas will be shipped rolled up in a tube
     title: Adoration
     type: Acrylic on canvas, 2016
     image: /img/fiction-adoration.jpg
@@ -27,8 +24,7 @@ images:
     slug: arrival-of-the-invader
     dimensions: 120 x 90 cm
     featured: false
-    shipping: Free worldwide shipping and returns  <br/>Canvas will be shipped
-      rolled up in a tube
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled up in a tube
     title: Arrival of the Invader
     type: Oil on linen, 2017
     image: /img/fiction-arrival-of-the-invader.jpg
@@ -38,12 +34,7 @@ images:
     slug: death-of-galatea
     dimensions: 80 x 60 cm
     featured: true
-    shipping: >-
-      Free worldwide shipping and
-      returns                                                                                                          
-
-
-      Canvas will be shipped rolled up in a tube
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled up in a tube
     title: Death of Galatea
     type: Oil on canvas, 2017
     image: /img/fiction-death-of-galatea.jpg
