@@ -10,7 +10,6 @@ import SocialShare from "../components/SocialShare";
 
 export const PaintingTemplate = ({ painting, helmet, siteMetadata }) => {
   const multiLineShipping = painting.shipping.split("<br/>");
-  console.log(multiLineShipping);
   return (
     <section className='p-strip'>
       {helmet || ""}
