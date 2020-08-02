@@ -14,7 +14,7 @@ images:
     slug: adoration
     dimensions: 80 x 60 cm
     featured: false
-    shipping: Free worldwide shipping and returns</br>Canvas will be shipped rolled up in a tube
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled up in a tube
     title: Adoration
     type: Acrylic on canvas, 2016
     image: /img/fiction-adoration.jpg
