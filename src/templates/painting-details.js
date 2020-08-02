@@ -2,14 +2,17 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
-import { find } from "lodash";
+import { find, split } from "lodash";
 
 import Layout from "../components/Layout";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import SocialShare from "../components/SocialShare";
 
 export const PaintingTemplate = ({ painting, helmet, siteMetadata }) => {
-  const multiLineShipping = painting.shipping.split("<br/>");
+  let multiLineShipping;
+  if (painting.shipping) {
+    multiLineShipping = split(painting.shipping, "<br/>");
+  }
   return (
     <section className='p-strip'>
       {helmet || ""}
@@ -32,13 +35,14 @@ export const PaintingTemplate = ({ painting, helmet, siteMetadata }) => {
                 <li className='p-list__item p-heading--3 u-no-margin--bottom'>
                   {painting.price}
                 </li>
-                {multiLineShipping.map((el, i) => {
-                  return (
-                    <li key={i} className='p-list__item'>
-                      {el}
-                    </li>
-                  );
-                })}
+                {multiLineShipping &&
+                  multiLineShipping.map((el, i) => {
+                    return (
+                      <li key={i} className='p-list__item'>
+                        {el}
+                      </li>
+                    );
+                  })}
               </ul>
             </div>
             <div className='p-card__buy-now'>
