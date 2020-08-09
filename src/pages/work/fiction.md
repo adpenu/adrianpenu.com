@@ -14,7 +14,8 @@ images:
     slug: adoration
     dimensions: 80 x 60 cm
     featured: false
-    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled up in a tube
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
     title: Adoration
     type: Acrylic on canvas, 2016
     image: /img/fiction-adoration.jpg
@@ -24,17 +25,19 @@ images:
     slug: arrival-of-the-invader
     dimensions: 120 x 90 cm
     featured: false
-    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled up in a tube
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
     title: Arrival of the Invader
     type: Oil on linen, 2017
     image: /img/fiction-arrival-of-the-invader.jpg
   - position: 4
     price: £600
-    alt: death of galatea
+    alt: arm cube geometry background black
     slug: death-of-galatea
     dimensions: 80 x 60 cm
     featured: true
-    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled up in a tube
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
     title: Death of Galatea
     type: Oil on canvas, 2017
     image: /img/fiction-death-of-galatea.jpg
@@ -50,41 +53,45 @@ images:
     image: /img/fiction-distance.jpg
   - position: 8
     price: £720
-    alt: galatea I
+    alt: nude woman body abstract figurative
     slug: galatea-I
     dimensions: 80 x 60 cm
     featured: false
-    shipping: Free worldwide shipping and returns
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
     title: Galatea I
     type: Acrylic on canvas, 2017
     image: /img/fiction-galatea-I.jpg
   - position: 9
     price: £720
-    alt: galatea II
+    alt: nude woman body abstract figurative
     slug: galatea-II
     dimensions: 80 x 60 cm
     featured: false
-    shipping: Free worldwide shipping and returns
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
     title: Galatea II
     type: Acrylic on canvas, 2017
     image: /img/fiction-galatea-II.jpg
   - position: 10
     price: £720
-    alt: galatea III
+    alt: nude woman body abstract figurative
     slug: galatea-III
     dimensions: 80 x 60 cm
     featured: false
-    shipping: Free worldwide shipping and returns
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
     title: Galatea III
     type: Acrylic on canvas, 2017
     image: /img/fiction-galatea-III.jpg
   - position: 3
     price: £945
-    alt: galatea IV
+    alt: nude woman body abstract figurative
     slug: galatea-IV
     dimensions: 120 x 100 cm
     featured: false
-    shipping: Free worldwide shipping and returns
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
     title: Galatea IV
     type: Acrylic on canvas, 2017
     image: /img/fiction-galatea-IV.jpg
@@ -105,7 +112,8 @@ images:
     slug: paradoxx
     dimensions: 120 x 100 cm
     featured: true
-    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled up in a tube
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
     title: Paradoxx
     type: Acrylic on canvas, 2018
     image: /img/fiction-paradoxx.jpg
