@@ -2,107 +2,108 @@
 templateKey: category-page
 title: Scenic
 slug: scenic
-description: A selection of paintings depicting scenes of tension and movement against a minimalist composition using a muted palette.
+description: A selection of paintings depicting scenes of tension and movement
+  against a minimalist composition using a muted palette.
 position: 3
 images:
-  - image: /img/scenic-blackrock.jpg
-    title: Blackrock
-    position: 5
+  - position: 5
+    price: £600
     alt: blackrock
     slug: blackrock
-    featured: true
-    type: Oil on canvas, 2020
     dimensions: 80 x 60 cm
-    price: £600
+    featured: false
     shipping: Free worldwide shipping and returns
-  - image: /img/scenic-empire.jpg
-    title: Empire
-    position: 4
+    title: Blackrock
+    type: Oil on canvas, 2020
+    image: /img/scenic-blackrock.jpg
+  - position: 4
+    price: £1200
     alt: empire
     slug: empire
-    featured: false
-    type:  Oil on canvas, 2020
     dimensions: 150 x 120 cm
-    price: £1200
+    featured: false
     shipping: Free worldwide shipping and returns
-  - image: /img/scenic-leif.jpg
-    title: Leif
-    position: 6
+    title: Empire
+    type: Oil on canvas, 2020
+    image: /img/scenic-empire.jpg
+  - position: 6
+    price: £380
     alt: leif
     slug: leif
-    featured: true
-    type: Oil on canvas, 2020
     dimensions: 41 x 30 cm
-    price: £380
+    featured: true
     shipping: Free worldwide shipping and returns
-  - image: /img/scenic-rainbow-island.jpg
-    title: Rainbow Island
-    position: 3
+    title: Leif
+    type: Oil on canvas, 2020
+    image: /img/scenic-leif.jpg
+  - position: 3
+    price: £600
     alt: rainbow-island
     slug: rainbow-island
-    featured: true
-    type: Oil on canvas, 2020
     dimensions: 80 x 60 cm
-    price: £600
+    featured: true
     shipping: Free worldwide shipping and returns
-  - image: /img/scenic-random-precision.jpg
-    title: Random Precision
-    position: 7
+    title: Rainbow Island
+    type: Oil on canvas, 2020
+    image: /img/scenic-rainbow-island.jpg
+  - position: 7
+    price: £945
     alt: random-precision
     slug: random-precision
-    featured: true
-    type: Oil on canvas, 2020
     dimensions: 120 x 90 cm
-    price: £945
+    featured: true
     shipping: Free worldwide shipping and returns
-  - image: /img/scenic-skyscape.jpg
-    title: Skyscape
-    position: 8
+    title: Random Precision
+    type: Oil on canvas, 2020
+    image: /img/scenic-random-precision.jpg
+  - position: 8
+    price: £600
     alt: skyscape
     slug: skyscape
-    featured: false
-    type: Acrylic on canvas, 2016
     dimensions: 40 x 40 cm
-    price: £600
+    featured: true
     shipping: Free worldwide shipping and returns
-  - image: /img/scenic-supernova-I.jpg
-    title: Supernova I
-    position: 2
+    title: Skyscape
+    type: Acrylic on canvas, 2016
+    image: /img/scenic-skyscape.jpg
+  - position: 2
+    price: £600
     alt: supernova-I
     slug: supernova-I
-    featured: false
-    type: Oil on canvas, 2019
     dimensions: 50 x 40 cm
-    price: £600
+    featured: true
     shipping: Free worldwide shipping and returns
-  - image: /img/scenic-supernova-II.jpg
-    title: Supernova II
-    position: 1
+    title: Supernova I
+    type: Oil on canvas, 2019
+    image: /img/scenic-supernova-I.jpg
+  - position: 1
+    price: £945
     alt: supernova-II
     slug: supernova-II
-    featured: true
-    type: Oil on canvas, 2019
     dimensions: 100 x 100 cm
-    price: £945
+    featured: true
     shipping: Free worldwide shipping and returns
-  - image: /img/scenic-supernova-III.jpg
-    title: Supernova III
-    position: 9
+    title: Supernova II
+    type: Oil on canvas, 2019
+    image: /img/scenic-supernova-II.jpg
+  - position: 9
+    price: £945
     alt: supernova-III
     slug: supernova-III
-    featured: false
-    type: Oil on canvas, 2019
     dimensions: 100 x 100 cm
-    price: £945
+    featured: false
     shipping: Free worldwide shipping and returns
-  - image: /img/scenic-vertical-supremo.jpg
-    title: Vertical Supremo
-    position: 10
+    title: Supernova III
+    type: Oil on canvas, 2019
+    image: /img/scenic-supernova-III.jpg
+  - position: 10
+    price: £600
     alt: vertical-supremo
     slug: vertical-supremo
-    featured: false
-    type: Oil on canvas, 2020
     dimensions: 80 x 60 cm
-    price: £600
+    featured: false
     shipping: Free worldwide shipping and returns
+    title: Vertical Supremo
+    type: Oil on canvas, 2020
+    image: /img/scenic-vertical-supremo.jpg
 ---
