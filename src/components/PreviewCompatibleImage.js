@@ -48,6 +48,7 @@ const PreviewCompatibleImage = ({
         className={immageClass}
         style={imageStyle}
         src={imageInfo}
+        alt={alt}
       />
     );
 
