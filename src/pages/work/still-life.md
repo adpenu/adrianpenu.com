@@ -5,7 +5,7 @@ slug: still-life
 description: A humble contribution to one of the most beloved genres of art.
 position: 4
 images:
-  - image: /img/still-life-aligner.jpg
+  - image: /img/still-life-aligner.webp
     title: Aligner
     position: 5
     alt: aligner
