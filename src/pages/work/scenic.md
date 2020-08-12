@@ -16,13 +16,14 @@ images:
     title: Blackrock
     type: Oil on canvas, 2020
     image: /img/scenic-blackrock.jpg
-  - position: 4
+  - position: 7
     price: £1200
     alt: empire
     slug: empire
     dimensions: 150 x 120 cm
     featured: false
-    shipping: Free worldwide shipping and returns
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
     title: Empire
     type: Oil on canvas, 2020
     image: /img/scenic-empire.jpg
@@ -46,7 +47,7 @@ images:
     title: Rainbow Island
     type: Oil on canvas, 2020
     image: /img/scenic-rainbow-island.jpg
-  - position: 7
+  - position: 4
     price: £945
     alt: random-precision
     slug: random-precision
