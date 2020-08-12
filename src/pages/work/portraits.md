@@ -50,7 +50,7 @@ images:
     type: Oil on linen, 2019
     image: /img/portraits-freedom-fighter.jpg
   - position: 5
-    price: £390
+    price: £380
     alt: the-trashtalker-I
     slug: the-trashtalker-I
     dimensions: 40 x 40 cm
