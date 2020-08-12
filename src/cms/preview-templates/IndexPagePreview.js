@@ -1,6 +1,9 @@
 import React from "react";
+import PropTypes from "prop-types";
 
-const IndexPagePreview = () => {
+const IndexPagePreview = ({ entry }) => {
+  const data = entry.getIn(["data"]).toJS();
+
   return (
     <div className='p-strip'>
       <div className='u-fixed-width'>
@@ -9,6 +12,12 @@ const IndexPagePreview = () => {
       </div>
     </div>
   );
+};
+
+IndexPagePreview.propTypes = {
+  entry: PropTypes.shape({
+    getIn: PropTypes.func,
+  }),
 };
 
 export default IndexPagePreview;
