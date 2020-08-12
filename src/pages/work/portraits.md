@@ -98,7 +98,7 @@ images:
   - position: 9
     price: £900
     alt: anthony-bourdain portrait desert monochrome
-    slug: in-search-of-time
+    slug: in search of time
     dimensions: 102 x 75 cm
     featured: false
     shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
