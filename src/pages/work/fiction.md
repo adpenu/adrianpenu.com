@@ -105,7 +105,7 @@ images:
     shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
       bars<br/>Ready to hang
     title: Omiscient
-    type: Acrylic on canvas, 2018
+    type: Oil on canvas, 2018
     image: /img/fiction-omiscient.jpg
     description: null
   - position: 1
