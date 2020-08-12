@@ -24,18 +24,19 @@ images:
     alt: turing portrait science british monochrome
     slug: turing
     dimensions: 60 x 50 cm
-    featured: false
+    featured: true
     shipping: Free worldwide shipping and returns
     title: Turing
     type: Oil on canvas, 2019
     image: /img/portraits-turing.jpg
   - position: 3
     price: £720
-    alt: the-lecturer
+    alt: the-lecturer jordan-b-peterson philosophy
     slug: the-lecturer
     dimensions: 90 x 85 cm
-    featured: false
-    shipping: Free worldwide shipping and returns
+    featured: true
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
     title: The Lecturer
     type: Oil on linen, 2018
     image: /img/portraits-the-lecturer.jpg
@@ -44,17 +45,17 @@ images:
     alt: freedom fighter
     slug: freedom-fighter
     dimensions: 90 x 75 cm
-    featured: true
+    featured: false
     shipping: null
     title: Freedom Fighter
     type: Oil on linen, 2019
     image: /img/portraits-freedom-fighter.jpg
   - position: 5
     price: £380
-    alt: the-trashtalker-I
+    alt: the-trashtalker-I conor-mcgregor ufc mma
     slug: the-trashtalker-I
     dimensions: 40 x 40 cm
-    featured: false
+    featured: true
     shipping: Free worldwide shipping and returns
     title: Trashtalker I
     type: Oil on canvas, 2019
