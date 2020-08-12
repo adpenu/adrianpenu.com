@@ -100,7 +100,7 @@ images:
     alt: anthony-bourdain portrait desert monochrome
     slug: in-search-of-time
     dimensions: 102 x 75 cm
-    featured: true
+    featured: false
     shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
       bars<br/>Ready to hang
     title: In Search of Time
