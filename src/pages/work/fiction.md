@@ -47,7 +47,8 @@ images:
     slug: distance
     dimensions: 40 x 40 cm
     featured: true
-    shipping: Free worldwide shipping and returns
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
     title: Distance
     type: Oil on linen, 2017
     image: /img/fiction-distance.jpg
@@ -101,7 +102,8 @@ images:
     slug: omiscient
     dimensions: 76 x 61 cm
     featured: true
-    shipping: Free worldwide shipping and returns
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
     title: Omiscient
     type: Acrylic on canvas, 2018
     image: /img/fiction-omiscient.jpg
