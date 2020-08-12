@@ -2,97 +2,111 @@
 templateKey: category-page
 title: Pulp art
 slug: pulp-art
-description: The paintings in this category are generally depicting images from popular culture, science fiction and film. The compositions are modern, aiming to attract the viewer’s interest by the familiarity of the subjects and themes. These artworks seem to lack pretence and complexity on the surface but each image source has been meticulously selected and scrutinised by the artist prior to the painting process.
+description: The paintings in this category are generally depicting images from
+  popular culture, science fiction and film. The compositions are modern, aiming
+  to attract the viewer’s interest by the familiarity of the subjects and
+  themes. These artworks seem to lack pretence and complexity on the surface but
+  each image source has been meticulously selected and scrutinised by the artist
+  prior to the painting process.
 position: 2
 images:
-  - image: /img/pulp-art-infidel.jpg
-    title: Infidel
-    position: 3
-    alt: infidel
+  - position: 3
+    price: £600
+    alt: infidel facebook instagram retro robot
     slug: infidel
-    featured: true
-    type: Oil on canvas, 2020
     dimensions: 61 x 46 cm
-    price: £600
-    shipping: Free worldwide shipping and returns
-  - image: /img/pulp-art-le-misanthrope.jpg
-    title: Le Misanthrope
-    position: 2
-    alt: le-misanthrope
+    featured: true
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Infidel
+    type: Oil on canvas, 2020
+    image: /img/pulp-art-infidel.jpg
+  - position: 2
+    price: £750
+    alt: le-misanthrope japan cult film face
     slug: le-misanthrope
-    featured: true
-    type: Oil on canvas, 2019
     dimensions: 60 x 60 cm
-    price: £600
-    shipping: Free worldwide shipping and returns
-  - image: /img/pulp-art-occultus.jpg
-    title: Occultus
-    position: 5
-    alt: occultus
+    featured: true
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Le Misanthrope
+    type: Oil on canvas, 2019
+    image: /img/pulp-art-le-misanthrope.jpg
+  - position: 5
+    price: £380
+    alt: occultus robot humanoid retro vintage
     slug: occultus
-    featured: true
-    type: Oil on canvas, 2019
     dimensions: 20 x 30 cm
-    price: £380
-    shipping: Free worldwide shipping and returns
-  - image: /img/pulp-art-spectator.jpg
-    title: Spectator
-    position: 6
-    alt: spectator
-    slug: spectator
-    featured: true
-    type: Oil on canvas, 2020
-    dimensions: 61 x 46 cm
+    featured: false
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Occultus
+    type: Oil on canvas, 2019
+    image: /img/pulp-art-occultus.jpg
+  - position: 6
     price: £600
-    shipping: Free worldwide shipping and returns
-  - image: /img/pulp-art-spider.jpg
-    title: Spider
-    position: 1
-    alt: spider
-    slug: spider
-    featured: true
-    type: Oil on canvas, 2019
-    dimensions: 80 x 80 cm
-    price: £720
-    shipping: Free worldwide shipping and returns
-  - image: /img/pulp-art-stalin.jpg
-    title: Stalin
-    position: 7
-    alt: stalin
-    slug: stalin
+    alt: spectator richter youtube terrorism chechen
+    slug: spectator
+    dimensions: 61 x 46 cm
     featured: false
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Spectator
     type: Oil on canvas, 2020
-    dimensions: 150 x 120 cm
+    image: /img/pulp-art-spectator.jpg
+  - position: 1
+    price: £940
+    alt: spider robot humanoid vintage retro
+    slug: spider
+    dimensions: 80 x 80 cm
+    featured: true
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Spider
+    type: Oil on canvas, 2019
+    image: /img/pulp-art-spider.jpg
+  - position: 7
     price: £1200
-    shipping: Free worldwide shipping and returns
-  - image: /img/pulp-art-the-peacemaker.jpg
-    title: The Peacemaker
-    position: 8
-    alt: the-peacemaker
+    alt: stalin vintage retro robot humanoid geek
+    slug: stalin
+    dimensions: 150 x 120 cm
+    featured: false
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
+    title: Stalin
+    type: Oil on canvas, 2020
+    image: /img/pulp-art-stalin.jpg
+  - position: 8
+    price: £550
+    alt: the-peacemaker nuclear soviet atomic bomb
     slug: the-peacemaker
-    featured: false
-    type: Oil on canvas, 2019
     dimensions: 40 x 30 cm
-    price: £380
-    shipping: Free worldwide shipping and returns
-  - image: /img/pulp-art-trashtalker-II.jpg
-    title: Trashtalker II
-    position: 4
-    alt: trashtalker-II
+    featured: false
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: The Peacemaker
+    type: Oil on canvas, 2019
+    image: /img/pulp-art-the-peacemaker.jpg
+  - position: 4
+    price: £550
+    alt: trashtalker-II conor-mcgregor ufc mma khabib
     slug: trashtalker-II
-    featured: false
-    type: Oil on canvas, 2019
     dimensions: 40 x 40 cm
-    price: £380
-    shipping: Free worldwide shipping and returns
-  - image: /img/pulp-art-x.jpg
-    title: X
-    position: 9
-    alt: x
-    slug: x
-    featured: false
+    featured: true
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Trashtalker II
     type: Oil on canvas, 2019
+    image: /img/pulp-art-trashtalker-II.jpg
+  - position: 9
+    price: £550
+    alt: x fetus pulp baby painting
+    slug: x
     dimensions: 40 x 30 cm
-    price: £380
-    shipping: Free worldwide shipping and returns
+    featured: false
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: X
+    type: Oil on canvas, 2019
+    image: /img/pulp-art-x.jpg
 ---
