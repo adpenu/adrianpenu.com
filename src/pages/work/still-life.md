@@ -5,114 +5,122 @@ slug: still-life
 description: A humble contribution to one of the most beloved genres of art.
 position: 4
 images:
-  - image: /img/still-life-aligner.webp
-    title: Aligner
-    position: 5
-    alt: aligner
+  - position: 5
+    price: £380
+    alt: aligner invisalign dentistry black
     slug: aligner
-    featured: true
-    type: Oil on linen, 2017
     dimensions: 20 x 20 cm
-    price: £380
-    shipping: Free worldwide shipping and returns
-  - image: /img/still-life-alma.jpg
-    title: Alma
-    position: 3
-    alt: alma
-    slug: alma
-    featured: true
-    type: Acrylic on canvas, 2016
-    dimensions: 60 x 50 cm
-    price: In private collection
-    shipping:
-  - image: /img/still-life-animal-skull.jpg
-    title: Animal Skull
-    position: 6
-    alt: animal-skull
-    slug: animal-skull
     featured: false
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Aligner
+    type: Oil on linen, 2017
+    image: /img/still-life-aligner.webp
+  - position: 3
+    price: In private collection
+    alt: alma dutch flowers black colours
+    slug: alma
+    dimensions: 60 x 50 cm
+    featured: true
+    shipping: null
+    title: Alma
+    type: Acrylic on canvas, 2016
+    image: /img/still-life-alma.jpg
+  - position: 6
+    price: £750
+    alt: animal-skull black lamb skull metal
+    slug: animal-skull
+    dimensions: 60 x 60 cm
+    featured: false
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Animal Skull
     type: Oil on linen, 2018
-    dimensions: 60 x 60 cm
-    price: £600
-    shipping: Free worldwide shipping and returns
-  - image: /img/still-life-clapham-ceiling.jpg
-    title: Clapham Ceiling
-    position: 4
-    alt: clapham-ceiling
+    image: /img/still-life-animal-skull.jpg
+  - position: 4
+    price: £750
+    alt: "clapham-ceiling tuymans richter ceiling "
     slug: clapham-ceiling
-    featured: true
-    type: Oil on canvas, 2018
     dimensions: 60 x 60 cm
-    price: £600
-    shipping: Free worldwide shipping and returns
-  - image: /img/still-life-model.jpg
-    title: Model
-    position: 7
-    alt: model
-    slug: model
     featured: true
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Clapham Ceiling
     type: Oil on canvas, 2018
-    dimensions: 20 x 20 cm
+    image: /img/still-life-clapham-ceiling.jpg
+  - position: 7
     price: £380
-    shipping: Free worldwide shipping and returns
-  - image: /img/still-life-pacific.jpg
-    title: Pacific
-    position: 8
+    alt: model dental dentistry
+    slug: model
+    dimensions: 20 x 20 cm
+    featured: true
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Model
+    type: Oil on canvas, 2018
+    image: /img/still-life-model.jpg
+  - position: 8
+    price: In private collection
     alt: pacific
     slug: pacific
-    featured: false
-    type: Oil on canvas, 2017
     dimensions: 60 x 50 cm
-    price: In private collection
-    shipping:
-  - image: /img/still-life-pliers.jpg
-    title: Pliers
-    position: 9
-    alt: pliers
-    slug: pliers
     featured: false
-    type: Oil on linen, 2017
-    dimensions: 20 x 20 cm
+    shipping: null
+    title: Pacific
+    type: Oil on canvas, 2017
+    image: /img/still-life-pacific.jpg
+  - position: 9
     price: £380
-    shipping: Free worldwide shipping and returns
-  - image: /img/still-life-scissor.jpg
-    title: Scissor
-    position: 10
+    alt: pliers dental dentistry black
+    slug: pliers
+    dimensions: 20 x 20 cm
+    featured: false
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Pliers
+    type: Oil on linen, 2017
+    image: /img/still-life-pliers.jpg
+  - position: 10
+    price: £380
     alt: scissor
     slug: scissor
-    featured: false
-    type: Oil on linen, 2017
     dimensions: 20 x 20 cm
-    price: £380
-    shipping: Free worldwide shipping and returns
-  - image: /img/still-life-the-cube.jpg
-    title: The Cube
-    position: 11
+    featured: false
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: Scissor
+    type: Oil on linen, 2017
+    image: /img/still-life-scissor.jpg
+  - position: 11
+    price: In private collection
     alt: the-cube
     slug: the-cube
-    featured: false
-    type: Oil on linen, 2018
     dimensions: 100 x 80 cm
-    price: In private collection
-    shipping:
-  - image: /img/still-life-the-dark-side-of-the-room.jpeg
-    title: The Dark Side of the Room
-    position: 1
-    alt: the-dark-side-of-the-room
-    slug: the-dark-side-of-the-room
-    featured: true
-    type: Oil on linen, 2018
-    dimensions: 160 x 140 cm
-    price: £1200
-    shipping: Free worldwide shipping and returns
-  - image: /img/still-life-xyz.jpg
-    title: XYZ
-    position: 2
-    alt: xyz
-    slug: xyz
     featured: false
-    type: Oil on canvas, 2017
-    dimensions: 40 x 40 cm
+    shipping: null
+    title: The Cube
+    type: Oil on linen, 2018
+    image: /img/still-life-the-cube.jpg
+  - position: 1
+    price: £1200
+    alt: the-dark-side-of-the-room symbolism figurative
+    slug: the-dark-side-of-the-room
+    dimensions: 160 x 140 cm
+    featured: true
+    shipping: Free worldwide shipping and returns<br/>Canvas will be shipped rolled
+      up in a tube
+    title: The Dark Side of the Room
+    type: Oil on linen, 2018
+    image: /img/still-life-the-dark-side-of-the-room.jpeg
+  - position: 2
     price: £600
-    shipping: Free worldwide shipping and returns
+    alt: xyz skull memento mori vanitas
+    slug: xyz
+    dimensions: 40 x 40 cm
+    featured: true
+    shipping: Free worldwide shipping and returns<br/>Canvas stretched on wooden
+      bars<br/>Ready to hang
+    title: XYZ
+    type: Oil on canvas, 2017
+    image: /img/still-life-xyz.jpg
 ---
