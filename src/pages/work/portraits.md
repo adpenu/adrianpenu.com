@@ -44,6 +44,7 @@ images:
     type: Oil on linen, 2019
     dimensions: 90 x 75 cm
     price: In private collection
+    shipping: N/A
   - position: 5
     image: /img/portraits-trashtalker-I.jpg
     title: Trashtalker I
@@ -63,6 +64,7 @@ images:
     type: Acrylic on canvas, 2016
     dimensions: 50 x 40 cm
     price: In private collection
+    shipping: N/A
   - position: 7
     image: /img/portraits-the-dog-that-didnt-bark.jpg
     title: The Dog that Didn’t Bark

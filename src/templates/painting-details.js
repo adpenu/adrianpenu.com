@@ -10,7 +10,7 @@ import SocialShare from "../components/SocialShare";
 
 export const PaintingTemplate = ({ painting, helmet, siteMetadata }) => {
   let multiLineShipping;
-  if (painting.shipping) {
+  if (painting.shipping && painting.shipping !== "N/A") {
     multiLineShipping = split(painting.shipping, "<br/>");
   }
   return (

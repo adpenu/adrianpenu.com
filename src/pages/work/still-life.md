@@ -24,6 +24,7 @@ images:
     type: Acrylic on canvas, 2016
     dimensions: 60 x 50 cm
     price: In private collection
+    shipping: N/A
   - image: /img/still-life-animal-skull.jpg
     title: Animal Skull
     position: 6
@@ -63,6 +64,7 @@ images:
     type: Oil on canvas, 2017
     dimensions: 60 x 50 cm
     price: In private collection
+    shipping: N/A
   - image: /img/still-life-pliers.jpg
     title: Pliers
     position: 9
@@ -92,6 +94,7 @@ images:
     type: Oil on linen, 2018
     dimensions: 100 x 80 cm
     price: In private collection
+    shipping: N/A
   - image: /img/still-life-the-dark-side-of-the-room.jpeg
     title: The Dark Side of the Room
     position: 1
