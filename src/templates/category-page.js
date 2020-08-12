@@ -77,10 +77,10 @@ export const CategoryTemplate = ({
        };
 
 CategoryTemplate.propTypes = {
-  images: PropTypes.array,
+  images: PropTypes.array.isRequired,
   description: PropTypes.string,
-  slug: PropTypes.string,
-  title: PropTypes.string,
+  slug: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
   helmet: PropTypes.object,
 };
 
