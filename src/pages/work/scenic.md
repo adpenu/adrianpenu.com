@@ -27,12 +27,12 @@ images:
     type: Oil on canvas, 2020
     image: /img/scenic-empire.jpg
   - position: 6
-    price: £380
+    price: In private collection
     alt: leif
     slug: leif
     dimensions: 41 x 30 cm
-    featured: true
-    shipping: Free worldwide shipping and returns
+    featured: false
+    shipping: ""
     title: Leif
     type: Oil on canvas, 2020
     image: /img/scenic-leif.jpg
