@@ -5,8 +5,11 @@ export default () => (
   <Layout>
     <section className='p-strip is-deep'>
       <div className='row u-vertically-center'>
-        <div className='col-3 u-align-center--large'>
-          <i className='p-icon--big-smile'>Success</i>
+        <div
+          className='col-3 u-align-center--large'
+          style={{ position: "relative" }}>
+          <i className='p-icon--big-smile is-animated'>Success</i>
+          <span className='shadow'></span>
         </div>
         <div className='col-6'>
           <h1 className='p-heading--3'>Thank you for your message!</h1>
