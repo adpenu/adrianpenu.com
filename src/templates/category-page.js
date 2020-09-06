@@ -100,8 +100,8 @@ const Category = ({ data }) => {
         slug={frontmatter.slug}
         helmet={
           <Helmet titleTemplate='%s | Adrian Penu'>
-            <title>{`${frontmatter.title}`}</title>
-            <meta name='description' />
+            <title>{frontmatter.title}</title>
+            <meta name='description' content={frontmatter.description} />
           </Helmet>
         }
         description={frontmatter.description}

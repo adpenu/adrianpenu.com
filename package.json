@@ -1,12 +1,12 @@
 {
   "name": "adrianpenu.com",
   "description": "This is the official codebase for adrianpenu.com website",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Designza",
   "dependencies": {
     "gatsby": "2.24.44",
     "gatsby-image": "2.4.15",
-    "gatsby-plugin-gtag": "^1.0.13",
+    "gatsby-plugin-gtag": "1.0.13",
     "gatsby-plugin-netlify": "2.3.13",
     "gatsby-plugin-netlify-cms": "4.3.11",
     "gatsby-plugin-purgecss": "5.0.0",
