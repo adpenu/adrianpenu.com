@@ -10,7 +10,7 @@ description: The portraits depicted by the artist form a remarkable collection
 position: 1
 images:
   - position: 1
-    price: £1140
+    price: £1660
     alt: oppenheimer man portrait painting tuymans
     slug: manhattan
     dimensions: 80 x 60 cm
@@ -21,7 +21,7 @@ images:
     type: Oil on canvas, 2019
     image: /img/portraits-manhattan.jpg
   - position: 2
-    price: £890
+    price: £1545
     alt: turing portrait science british monochrome
     slug: turing
     dimensions: 60 x 50 cm
@@ -32,7 +32,7 @@ images:
     type: Oil on canvas, 2019
     image: /img/portraits-turing.jpg
   - position: 3
-    price: £850
+    price: £1660
     alt: the-lecturer jordan-b-peterson philosophy
     slug: the-lecturer
     dimensions: 90 x 85 cm
@@ -74,7 +74,7 @@ images:
     type: Acrylic on canvas, 2016
     image: /img/portraits-the-painter.jpg
   - position: 7
-    price: £600
+    price: £840
     alt: the-dog-that-didn’t-bark jfk secret-society illuminati
     slug: the-dog-that-didnt-bark
     dimensions: 61 x 46 cm
@@ -107,7 +107,7 @@ images:
     type: Oil on linen, 2018
     image: /img/portraits-in-search-of-time.jpg
   - position: 10
-    price: £450
+    price: £630
     alt: elev-mihail portrait communism tuymans portrait
     slug: elev-mihail
     dimensions: 30 x 40 cm
