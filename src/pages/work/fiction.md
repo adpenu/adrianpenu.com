@@ -9,7 +9,7 @@ description: The artworks are based on mythology, sci-fi and surrealism. The
 position: 5
 images:
   - position: 5
-    price: £720
+    price: £840
     alt: adoration woman feminism green blue
     slug: adoration
     dimensions: 80 x 60 cm
@@ -20,7 +20,7 @@ images:
     type: Acrylic on canvas, 2016
     image: /img/fiction-adoration.jpg
   - position: 7
-    price: £945
+    price: £1230
     alt: woman nude geometry purple
     slug: arrival-of-the-invader
     dimensions: 120 x 90 cm
@@ -31,7 +31,7 @@ images:
     type: Oil on linen, 2017
     image: /img/fiction-arrival-of-the-invader.jpg
   - position: 4
-    price: £600
+    price: £760
     alt: arm cube geometry background black
     slug: death-of-galatea
     dimensions: 80 x 60 cm
@@ -109,7 +109,7 @@ images:
     image: /img/fiction-omiscient.jpg
     description: null
   - position: 1
-    price: £945
+    price: £1845
     alt: geometry cube astronaut kubrick
     slug: paradoxx
     dimensions: 120 x 100 cm
