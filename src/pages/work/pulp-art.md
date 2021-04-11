@@ -11,7 +11,7 @@ description: The paintings in this category are generally depicting images from
 position: 2
 images:
   - position: 3
-    price: £600
+    price: £840
     alt: infidel facebook instagram retro robot
     slug: infidel
     dimensions: 61 x 46 cm
@@ -22,7 +22,7 @@ images:
     type: Oil on canvas, 2020
     image: /img/pulp-art-infidel.jpg
   - position: 2
-    price: £750
+    price: £840
     alt: le-misanthrope japan cult film face
     slug: le-misanthrope
     dimensions: 60 x 60 cm
@@ -33,7 +33,7 @@ images:
     type: Oil on canvas, 2019
     image: /img/pulp-art-le-misanthrope.jpg
   - position: 5
-    price: £380
+    price: £500
     alt: occultus robot humanoid retro vintage
     slug: occultus
     dimensions: 20 x 30 cm
@@ -55,7 +55,7 @@ images:
     type: Oil on canvas, 2020
     image: /img/pulp-art-spectator.jpg
   - position: 1
-    price: £940
+    price: £1200
     alt: spider robot humanoid vintage retro
     slug: spider
     dimensions: 80 x 80 cm
@@ -66,7 +66,7 @@ images:
     type: Oil on canvas, 2019
     image: /img/pulp-art-spider.jpg
   - position: 7
-    price: £1200
+    price: £3300
     alt: stalin vintage retro robot humanoid geek
     slug: stalin
     dimensions: 150 x 120 cm
@@ -77,7 +77,7 @@ images:
     type: Oil on canvas, 2020
     image: /img/pulp-art-stalin.jpg
   - position: 8
-    price: £550
+    price: £840
     alt: the-peacemaker nuclear soviet atomic bomb
     slug: the-peacemaker
     dimensions: 40 x 30 cm
