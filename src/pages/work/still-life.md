@@ -6,7 +6,7 @@ description: A humble contribution to one of the most beloved genres of art.
 position: 4
 images:
   - position: 5
-    price: £380
+    price: £450
     alt: aligner invisalign dentistry black
     slug: aligner
     dimensions: 20 x 20 cm
@@ -49,7 +49,7 @@ images:
     type: Oil on canvas, 2018
     image: /img/still-life-clapham-ceiling.jpg
   - position: 7
-    price: £380
+    price: £450
     alt: model dental dentistry
     slug: model
     dimensions: 20 x 20 cm
@@ -70,7 +70,7 @@ images:
     type: Oil on canvas, 2017
     image: /img/still-life-pacific.jpg
   - position: 9
-    price: £380
+    price: £450
     alt: pliers dental dentistry black
     slug: pliers
     dimensions: 20 x 20 cm
@@ -81,7 +81,7 @@ images:
     type: Oil on linen, 2017
     image: /img/still-life-pliers.jpg
   - position: 10
-    price: £380
+    price: £450
     alt: scissor
     slug: scissor
     dimensions: 20 x 20 cm
@@ -102,7 +102,7 @@ images:
     type: Oil on linen, 2018
     image: /img/still-life-the-cube.jpg
   - position: 1
-    price: £1200
+    price: £4500
     alt: the-dark-side-of-the-room symbolism figurative
     slug: the-dark-side-of-the-room
     dimensions: 160 x 140 cm
@@ -113,7 +113,7 @@ images:
     type: Oil on linen, 2018
     image: /img/still-life-the-dark-side-of-the-room.jpeg
   - position: 2
-    price: £600
+    price: £810
     alt: xyz skull memento mori vanitas
     slug: xyz
     dimensions: 40 x 40 cm
