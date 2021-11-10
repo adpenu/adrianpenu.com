@@ -62,7 +62,7 @@ images:
       up in a tube
     title: Galatea I
     type: Acrylic on canvas, 2017
-    image: /img/fiction-galatea-I.jpg
+    image: /img/galatea-i.jpg
   - position: 9
     price: £720
     alt: nude woman body abstract figurative
