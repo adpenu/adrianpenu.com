@@ -9,7 +9,7 @@ description: The artworks are based on mythology, sci-fi and surrealism. The
 position: 5
 images:
   - position: 5
-    price: £840
+    price: Price upon request
     alt: adoration woman feminism green blue
     slug: adoration
     dimensions: 80 x 60 cm
